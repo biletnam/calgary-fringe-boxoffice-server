@@ -1,0 +1,50 @@
+.admintopmenu, .adminfooter {
+    font-size: smaller;
+    font-family: Verdana, Tahoma, Arial, Helvetica, "Sans Serif";
+    background-color: #b8e8e6;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    border-style: solid;
+    border-color: black;
+}
+
+.admintopmenu {
+    text-align: center;
+    padding: 3px 3px 5px 3px;
+    border-width: 0px 0px 1px 0px;
+    top: 0px;
+}
+
+.adminfooter {
+    padding: 5px 3px 3px 3px;
+    border-width: 1px 0px 0px 0px;
+    margin: 10px 0px 0px 0px;
+    bottom: 0px;
+}
+
+.adminerror p, .adminerror ul li {
+    color: red;
+}
+
+.floatleft {
+    text-align: left;
+    position: static;
+    left: 5px;
+    float: left;
+}
+
+.floatright {
+    text-align: right;
+    position: static;
+    right: 5px;
+    float: right;
+}
+
+.indent {
+    margin-left: 30px;
+}
+
+.alert {
+    color: #c00000;
+}

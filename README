@@ -1,0 +1,17 @@
+README for Calgary Fringe Festival Box Office Server Code
+
+
+Some documentation needs to go here :-)
+
+----------------------------------------------------------------------------------------------------
+
+
+Sorry there isn't much other than this. Very briefly:
+    * to look at communication with the client, start with     gateway.php
+    * to look at the administrative www interface, start with  admin.php
+
+Good luck...!
+
+
+Sean Nichols
+seanni (AT) trichotomy (DOT) ca

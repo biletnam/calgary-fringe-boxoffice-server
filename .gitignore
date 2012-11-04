@@ -1,0 +1,11 @@
+# Ignore the following files when committing to Git
+
+*.jar
+*.zip
+
+Thumbs.db
+
+
+# THESE ARE IMPORTANT TO IGNORE, AS THEY CONTAIN DB LOGIN CREDENTIALS!!
+
+credentials.*
